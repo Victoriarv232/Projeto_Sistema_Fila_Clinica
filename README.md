@@ -1,4 +1,4 @@
-# Projeto: Sistema de Fila Clínica
+# Projeto: Gerenciamento de Fluxo de Fila
 Nesse projeto, você encontrará um sistema de gerenciamento de fila numa Clínica, desenvolvido com Python e Flask.
 (Com geração de senhas a depender da especialidade procurada, e fluxo baseado na simulação de 2 guichês operando atendimento).
 
@@ -18,5 +18,5 @@ Nesse projeto, você encontrará um sistema de gerenciamento de fila numa Clíni
 
 - Python
 - Flask
-- Flask-SQLAlchemy
+- Flask-SQLAlchemy (SQLite)
 - HTML / CSS (e Bootstrap)
