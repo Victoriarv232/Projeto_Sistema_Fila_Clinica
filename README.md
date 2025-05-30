@@ -46,7 +46,7 @@ source venv/bin/activate
 ### No Windows
 ```bash
 python3 -m venv venv
-source venv/scripts/activate
+venv/scripts/activate
 ```
 
 ### Instale os recursos requeridos para rodar o projeto
@@ -91,4 +91,4 @@ No seu navegador, digite:
 * Sofia Sarmento Soares Prados
 * Tâmilly Duarte dos Santos
 * Victória Resende Vieira
-* Vitória Moura dos Santos SIlva
+* Vitória Moura dos Santos Silva
