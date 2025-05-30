@@ -30,7 +30,7 @@ Nesse projeto, você encontrará um sistema de gerenciamento de fila numa Clíni
 
 ## Instruções de execução
 
-### Clone o repositório do gitHub
+### Clone o repositório do GitHub
 No Terminal, insira os seguintes comandos:
 ```bash
 git clone https://github.com/Victoriarv232/Projeto_Sistema_Fila_Clinica.git
